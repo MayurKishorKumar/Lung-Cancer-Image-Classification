@@ -26,17 +26,19 @@ To run this project, ensure you have the following libraries installed:
 - Matplotlib
 - Scikit-learn
 
-## Original Article
-
-Borkowski AA, Bui MM, Thomas LB, Wilson CP, DeLand LA, Mastorides SM. Lung and Colon Cancer Histopathological Image Dataset (LC25000). arXiv:1912.12142v1 [eess.IV], 2019.
-
-## Relevant Links
-
-- [Original Article on arXiv](https://arxiv.org/abs/1912.12142v1)
-- [GitHub Repository: tampapath/lung_colon_image_set](https://github.com/tampapath/lung_colon_image_set)
-
-
 You can install the dependencies using pip:
 
 ```sh
 pip install -r requirements.txt
+```
+
+## Dataset
+
+### Original Article
+
+Borkowski AA, Bui MM, Thomas LB, Wilson CP, DeLand LA, Mastorides SM. Lung and Colon Cancer Histopathological Image Dataset (LC25000). arXiv:1912.12142v1 [eess.IV], 2019.
+
+### Relevant Links
+
+- [Original Article on arXiv](https://arxiv.org/abs/1912.12142v1)
+- [GitHub Repository: tampapath/lung_colon_image_set](https://github.com/tampapath/lung_colon_image_set)
